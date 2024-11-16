@@ -67,6 +67,12 @@
 
 .content1-rightside {
     margin-right: 100px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 64px;
+    color: #f9faf8;
 }
 
 .footer {
