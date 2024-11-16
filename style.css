@@ -6,6 +6,7 @@
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
+    padding: 8px;
 }
 
 .header-leftside {
@@ -15,9 +16,10 @@
     margin-left: 100px;
 }
 
-#header-logo-text {
+#header-logo {
     font-size: 24px;
     color: #f9faf8;
+    text-decoration: none;
 }
 
 .header-rightside {
